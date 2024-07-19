@@ -340,48 +340,6 @@ end
 ```
 
 ---
-layout: section
----
-
-# Markdown Syntax
-
----
-
-# Local image
-
-![working][]
-
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
- 
-![working][]
-
-[working]: /images/working.jpg
-
----
-
-# Local image tag
-
-<img src="/images/working.jpg" style="float:right; margin:auto" width="20%" hspace="5%" vspace="1%"/>
-
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
- 
-<img src="/images/working.jpg" style="display:block; margin:auto" width="80%" hspace="1%" vspace="1%"/>
-
----
-
-# Local image tag (II)
-
-<img src="/images/working.jpg" class="m-40 h-40 rounded shadow" />
-
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
-
----
 
 # Presenter Notes
 
@@ -398,27 +356,6 @@ And this is a bullet list ...
 * ???
 * ???
 -->
-
----
-
-# Icons
-
-<mdi-account-circle /> - ??? <br/>
-<carbon-badge /> - ??? <br/>
-<uim-rocket /> - ??? <br/>
-<twemoji-cat-with-tears-of-joy /> - ??? <br/>
-<logos-vue /> - ??? <br/>
-
-View more/all [icons][] ... like ...
-
-<mi-circle-add />
-<mi-circle-remove />
-<mi-circle-check />
-<mi-circle-error />
-<mi-circle-help />
-<mi-circle-information />
-
-[icons]: https://icones.js.org
 
 ---
 
